@@ -1,2 +1,2 @@
-# -go-algorithms
-For study with algorithms written in Go
+# Go Algorithms
+A list of exercises to practice GoLang.
